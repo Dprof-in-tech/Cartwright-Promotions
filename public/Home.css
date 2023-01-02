@@ -32,14 +32,14 @@
         font-style: oblique;
         font-size: 2.5rem;
         color: white; 
-        margin-left: 3rem;
+        margin-left: 2rem;
     }
     p{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-style: italic;
         font-size: 1.3rem;
         color: white;
-        margin-left: 4rem;
+        margin-left: 2rem;
     }
     h2{
     font-family: cursive;
@@ -49,7 +49,7 @@
     margin-top: 1rem;
     }
     h2.experts{
-        margin-left: 4rem;
+        margin-left: 3rem;
     }
     h3{
         display: none;
@@ -59,7 +59,8 @@
         border-radius: 12px;
         background-color: transparent;
         color: white;
-        font-size: 1.5rem;
+        font-size: 1rem;
+        padding-left: 1rem;
         width: 16rem;
         height: 2rem;
         margin-top: 2rem;
@@ -70,12 +71,12 @@
         border-radius: 12px;
         background-color: rgb(165, 131, 87);
         color: white;
-        font-size: 1.5rem;
+        font-size: 1rem;
         text-align: center;
-        width: 10rem;
-        height: 4rem;
+        width: 8.5rem;
+        height: 2rem;
         margin-top: 2rem;
-        margin-left: 6rem;
+        margin-left: 2rem;
     }
 }
 @media only screen and (min-width: 992px){
