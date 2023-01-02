@@ -49,7 +49,7 @@
     margin-top: 1rem;
     }
     .experts{
-        margin-left: 2rem;
+        margin-left: 4rem;
     }
     h3{
         display: none;
@@ -74,7 +74,7 @@
         width: 10rem;
         height: 4rem;
         margin-top: 2rem;
-        margin-left: 2rem;
+        margin-left: 4rem;
     }
 }
 @media only screen and (min-width: 992px){
