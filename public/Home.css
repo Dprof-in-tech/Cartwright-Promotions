@@ -15,7 +15,7 @@
     .n-left{
         display: flex;
         justify-content: space-between;
-        margin-left: -1rem;
+        margin-left: -2rem;
     }
     .n-right{
         margin-right: -7rem;
@@ -32,13 +32,13 @@
         font-style: oblique;
         font-size: 3.5rem;
         color: white; 
+        margin-left: 2rem;
     }
     p{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-style: italic;
         font-size: 2rem;
         color: white;
-        max-width: 100%;
         margin-left: 4rem;
     }
     h2{
@@ -48,7 +48,7 @@
     color: white;
     margin-top: 1rem;
     }
-    .experts{
+    h2.experts{
         margin-left: 4rem;
     }
     h3{
@@ -74,7 +74,7 @@
         width: 10rem;
         height: 4rem;
         margin-top: 2rem;
-        margin-left: 5rem;
+        margin-left: 6rem;
     }
 }
 @media only screen and (min-width: 992px){
