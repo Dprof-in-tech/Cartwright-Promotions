@@ -15,10 +15,10 @@
     .n-left{
         display: flex;
         justify-content: space-between;
-        margin-left: -5rem;
+        margin-left: -1rem;
     }
     .n-right{
-        margin-right: -2rem;
+        margin-right: -7rem;
     }
     .reveal_logo{
         margin-top: 30rem;
@@ -74,7 +74,7 @@
         width: 10rem;
         height: 4rem;
         margin-top: 2rem;
-        margin-left: 4rem;
+        margin-left: 5rem;
     }
 }
 @media only screen and (min-width: 992px){
