@@ -10,7 +10,7 @@
         justify-content: space-evenly;
         display: flex;
         margin-top: 3rem;
-        margin-bottom: 12rem;
+        margin-bottom: 6rem;
     }
     .n-left{
         display: flex;
@@ -32,7 +32,7 @@
         font-style: oblique;
         font-size: 2.5rem;
         color: white; 
-        margin-left: 2rem;
+        margin-left: 3rem;
     }
     p{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
