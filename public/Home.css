@@ -15,7 +15,7 @@
     .n-left{
         display: flex;
         justify-content: space-between;
-        margin-left: -2rem;
+        margin-left: -5rem;
     }
     .n-right{
         margin-right: -7rem;
@@ -61,8 +61,9 @@
         color: white;
         font-size: 1.5rem;
         width: 16rem;
-        height: 4rem;
+        height: 2rem;
         margin-top: 2rem;
+        margin-left: 2rem;
     }
     .submit{
         border: none;
