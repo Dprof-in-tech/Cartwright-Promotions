@@ -9,13 +9,13 @@
     .n-wrapper{
         justify-content: space-evenly;
         display: flex;
-        margin-top: 3rem;
+        margin-top: 1.5rem;
         margin-bottom: 6rem;
     }
     .n-left{
         display: flex;
         justify-content: space-between;
-        margin-left: -5rem;
+        margin-left: -4rem;
     }
     .n-right{
         margin-right: -5rem;
@@ -32,24 +32,24 @@
         font-style: oblique;
         font-size: 2.5rem;
         color: white; 
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
     p{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-style: italic;
         font-size: 1.3rem;
         color: white;
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
     h2{
     font-family: cursive;
     font-style: oblique;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: white;
     margin-top: 1rem;
     }
     h2.experts{
-        margin-left: 3rem;
+        margin-left: 1rem;
     }
     h3{
         display: none;
@@ -64,7 +64,7 @@
         width: 16rem;
         height: 2rem;
         margin-top: 2rem;
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
     .submit{
         border: none;
