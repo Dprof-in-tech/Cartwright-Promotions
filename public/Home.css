@@ -15,7 +15,7 @@
     .n-left{
         display: flex;
         justify-content: space-between;
-        margin-left: -10rem;
+        margin-left: -8rem;
     }
     .n-right{
         margin-right: -5rem;
