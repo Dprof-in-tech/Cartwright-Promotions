@@ -1,7 +1,7 @@
 @media only screen and (max-width: 720px){
     body{
         background: url("./cartwright_background.jpg");
-        background-size: 1440px 1440px;
+        background-size: 1440px 1600px;
         background-repeat: no-repeat;
         align-items: center;
         text-align: center;
@@ -15,7 +15,7 @@
     .n-left{
         display: flex;
         justify-content: space-between;
-        margin-left: -8rem;
+        margin-left: -5rem;
     }
     .n-right{
         margin-right: -5rem;
@@ -38,8 +38,8 @@
         font-style: italic;
         font-size: 2rem;
         color: white;
-        max-width: 85%;
-        margin-left: 3rem;
+        max-width: 100%;
+        margin-left: 4rem;
     }
     h2{
     font-family: cursive;
@@ -71,6 +71,7 @@
         width: 10rem;
         height: 4rem;
         margin-top: 2rem;
+        margin-left: 2rem;
     }
 }
 @media only screen and (min-width: 992px){
