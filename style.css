@@ -43,7 +43,6 @@ a:active{
     height: 10%;
     z-index: 2;
     gap: 30%;
-    top: -0%;
     padding: 0rem;
     align-items: center;
     border: 0;
@@ -619,14 +618,16 @@ a:active{
     }
     .n-right{
         position: relative;
-        right: 5%;
+        right: 15%;
     }
 
 .landing{
     height: 100vh;
     width: 100%;
 }
-
+.landing_details{
+    width: 100%;
+}
 .landing .landing_details .landing_text{
     width: 85%;
 }
