@@ -613,6 +613,13 @@ a:active{
   
     .navbar{
         gap: 7rem;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .n-right{
+        position: relative;
+        right: 5%;
     }
 
 .landing{
@@ -735,14 +742,13 @@ a:active{
 .contact_us{
     display: flex;
     flex-direction: column;
-}
-.contact_us>*{
-    margin-left: 5%;
+    align-items: center;
+    justify-content: center;
 }
 
 .contact_us .quote{
-    width: 50%;   
-    margin-left: 15%;
+    width: 50%; 
+    margin-left: 3%;  
     margin-top: -5%;
 }
 
@@ -771,7 +777,7 @@ a:active{
     text-align: center;
 }
 .copyright{
-    margin-left: -16%;
+    margin-left: -5%;
     margin-top: 15%;
     margin-bottom: 0.3rem;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
